@@ -7,8 +7,9 @@
   },
   "server": {
     "ip": "
-x45smp.aternos.me",
-    "port": 36118,
+FirechargeSmp.aternos.me",
+    "port": 63274
+,
     "version": "",
     "try-creative": false
   },
